@@ -26,7 +26,6 @@ $$
 $$
 
 
-
 ## Methods
 
 ### 1. Baseline Model
@@ -48,6 +47,8 @@ Further improvements were made by adding features such as the bid/ask ratio in s
 ## Results
 
 The model's public score improved incrementally with each enhancement, demonstrating the effectiveness of our approaches in refining the predictions.
+
+![Alt Text](https://github.com/PrakhyathS/Close-Price-Prediction/blob/main/Results.png)
 
 ## Challenges and Considerations
 
